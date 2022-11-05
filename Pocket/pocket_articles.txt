@@ -1,0 +1,81 @@
+[domenica, 27 febbraio 2022 - 19:10:53 CET] The Cook and the Chef: Musk's Secret Sauce — Wait But Why
+This is the last part of a four-part series on Elon Musk’s companies. For an explanation of why this series is happening and how Musk is involved, start with Part 1.1[footnote2]Small gray square footnotes are boring and when you click on one of these, you’ll end up bored.
+https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html
+
+[mercoledì, 24 novembre 2021 - 12:24:28 CET] Explore the Observer Design Pattern with C   | by Gayashan Bombuwala | Medi
+Let’s look at how the popular Observer Design Pattern (Publish/Subscribe) can be implemented in C++ in the simplest way.
+https://medium.com/@gayashanbc/explore-the-observer-design-pattern-with-c-8592459b0486
+
+[sabato, 19 febbraio 2022 - 15:24:29 CET] Chrome extension is blocked by Administrator - Get IT Solutions
+As a Chrome Enterprise admin, you can control which Chrome extension or plugins users can install or add on Google Chrome. AdBlock (extension ID “gighmmpiobklfepjocnamgkkbiglidom”) is blocked by the administrator.
+https://www.get-itsolutions.com/chrome-extension-blocked/
+
+[mercoledì, 08 giugno 2022 - 09:24:24 CEST] Computer wakes up from hibernation within a minute - Microsoft Community
+Please try these options one by one and check after each option. 1. Troubleshoot Power Type troubleshoot in Windows Start Search box > Click Troubleshoot > Scroll down > Click Power > Run the troubleshooter > Follow on-screen direction.
+https://answers.microsoft.com/en-us/windows/forum/all/computer-wakes-up-from-hibernation-within-a-minute/a3eabcff-16b0-4814-afe6-ec1aaa087cec
+
+[martedì, 18 ottobre 2022 - 09:16:50 CEST] TwitchRecover/TwitchRecover: Twitch VOD tool which recovers all VODs includ
+Twitch Recover Twitch Recover is a free tool that allows you to view, recover and download all types of Twitch videos (VODs, clips, streams and highlights). There are two current versions available, the alpha of the 2.0 version which has 17 different features and the 1.
+https://github.com/TwitchRecover/TwitchRecover
+
+[mercoledì, 24 novembre 2021 - 07:42:27 CET] The V Programming Language
+A video about Vinix, a new OS/kernel written in V. Booting, running GNU coreutils, GCC, g++, V, vim. https://t.co/p2d3BYLqlL
+https://twitter.com/v_language/status/1463183444742189062?s=12
+
+[venerdì, 10 dicembre 2021 - 10:32:48 CET] space-shooter.c
+
+A cross-platform, top-down 2D space shooter written in C u
+space-shooter.c is a cross-platform, top-down 2D space shooter written in standard C11 using only system libraries (with system libraries defined as anything included in the C standard library or supported operating systems). space-shooter.c has been tested on Windows 10 and Ubuntu Linux 16.04.
+https://github.com/tsherif/space-shooter.c
+
+[sabato, 08 gennaio 2022 - 14:20:30 CET] The Third Web
+(This text is very long. Maybe too long. You can find a PDF and an EPUB of it below. The current version of this text will always live at https://web3.tante.cc Satya has created an audio version of this essay. Eine deutsche Version findet sich hier.
+https://tante.cc/2021/12/17/the-third-web/
+
+[domenica, 02 gennaio 2022 - 21:41:24 CET] Wrapping Up 2021
+2021 was not too kind to me. I discovered that I not only have OCD but OCPD, a personality disorder. If you’ve ever had a conversation with me where I just couldn’t let something go because it was wrong or incorrect and it bothered me, now you know why.
+https://izzys.casa/2021/12/wrapping-up-2021/
+
+[venerdì, 07 gennaio 2022 - 23:12:56 CET] Exit code trivia
+Whenever there is an automated process involved, such as asset/code building, unit testing, automatic version packaging, bulk log processing, etc., there often is a set of command-line tools which do their thing and return the result.
+https://zeux.io/2010/12/06/exit-code-trivia/
+
+[sabato, 08 gennaio 2022 - 14:20:38 CET] My first impressions of web3
+Despite considering myself a cryptographer, I have not found myself particularly drawn to “crypto.
+https://moxie.org/2022/01/07/web3-first-impressions.html?s=09
+
+[mercoledì, 08 giugno 2022 - 09:25:02 CEST] How to stop computer from waking up on Windows 11 - Pureinfotech
+On Windows 11, if your computer keeps waking up automatically in the middle of the night, it could be a device or scheduled task that has the power management settings to run even though the device is sleeping or hibernating.
+https://pureinfotech.com/stop-computer-waking-up-windows-11/
+
+[venerdì, 06 maggio 2022 - 09:42:02 CEST] Mechanical Watch – Bartosz Ciechanowski
+In the world of modern portable devices, it may be hard to believe that merely a few decades ago the most convenient way to keep track of time was a mechanical watch. Unlike their quartz and smart siblings, mechanical watches can run without using any batteries or other electronic components.
+https://ciechanow.ski/mechanical-watch/?fbclid=IwAR09WE-Q5ufkdUX4C-o4x_fs22Fw6u1qfoOY1A0zDhoTYhDL4OsTrB0NKF0
+
+[venerdì, 20 maggio 2022 - 08:42:13 CEST] Memory safety for SerenityOS
+This post describes how we’re going to achieve memory safety in SerenityOS. After visiting my nephews for easter, I spent the drive back home thinking about the future they will grow up in.
+https://awesomekling.github.io/Memory-safety-for-SerenityOS/
+
+[mercoledì, 03 agosto 2022 - 09:16:40 CEST] GitHub - nkanaev/tipsy: tiny playstationy renderer
+Building requires C99 compiler & OpenGL (see makefile). Hold down the left mouse button and drag to rotate.
+https://github.com/nkanaev/tipsy
+
+[martedì, 04 ottobre 2022 - 11:52:54 CEST] L'Avvocato dell'Atomo/The Atomic Advocate
+ATTENZIONE: IMPORTANTE! C'è di mezzo l'inverno energetico per buona parte d'Europa
+https://twitter.com/AvvocatoAtomico/status/1576927446657830913
+
+[venerdì, 21 ottobre 2022 - 15:41:29 CEST] Show HN: Restfox – Open source lightweight alternative to Postman | Hacker
+If you're tired of Postman's bloated interface and slow startup times, do give this a try.
+https://news.ycombinator.com/item?id=33287137
+
+[lunedì, 31 ottobre 2022 - 09:07:21 CET] official-antique/PSemuX
+Experimental PS1 emulator written in C++ 20.
+https://github.com/official-antique/PSemuX/blob/main/psemux/src/cpu/cpu.cpp
+
+[venerdì, 04 novembre 2022 - 21:14:55 CET] In Defense Of Linked Lists
+Learning the basics of data structures is a rite of passage for new programmers. On their first day doing so, chances are they’ll encounter the idea of a “node”, and the idea of links between nodes. Both of these ideas can be used to organize data in innumerable ways.
+https://www.rfleury.com/p/in-defense-of-linked-lists
+
+[venerdì, 04 novembre 2022 - 21:14:17 CET] In defense of linked lists
+A few days ago, on Twitter (oh, dear Twitter: whatever happens I’ll be there as long as possible – if you care about people that put a lot of energy in creating it, think twice before leaving the platform).
+http://antirez.com/news/138
